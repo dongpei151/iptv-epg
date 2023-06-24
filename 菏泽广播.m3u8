@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="菏泽交通广播FM94.8" tvg-name="菏泽交通广播FM94.8" tvg-logo="https://imagev2.xmcdn.com/group74/M04/96/6D/wKgO3F6DCTPSzYJ6AABSb-zvU7c522.png" group-title="菏泽广播",菏泽交通广播FM94.8
+http://live.hznet.tv:1935/live/live948/32k/tzwj_video.m3u8
+#EXTINF:-1 tvg-id="菏泽新闻广播FM87.5" tvg-name="菏泽新闻广播FM87.5" tvg-logo="https://pic.qtfm.cn/2022/1201/20221201104501.jpeg" group-title="菏泽广播",菏泽新闻广播FM87.5
+http://live.hznet.tv:1935/live/live875/32k/tzwj_video.m3u8
+#EXTINF:-1 tvg-id="菏泽音乐广播FM91.8" tvg-name="菏泽音乐广播FM91.8" tvg-logo="https://imagev2.xmcdn.com/storages/b9aa-audiofreehighqps/3B/F5/GMCoOScIM2dYAAI9tAIa23RO.jpg" group-title="菏泽广播",菏泽音乐广播FM91.8
+http://live.hznet.tv:1935/live/live918/32k/tzwj_video.m3u8
+#EXTINF:-1 tvg-id="菏泽综合频道HZTV1" tvg-name="菏泽综合频道HZTV1" tvg-logo="http://www.hezegd.com/templates/siteConfig/skin1/images/hztv1live.png" group-title="菏泽电视",菏泽综合频道HZTV1
+http://live.hznet.tv:1935/live/live1/500k/tzwj_video.m3u8
+#EXTINF:-1 tvg-id="菏泽生活频道HZTV2" tvg-name="菏泽生活频道HZTV2" tvg-logo="http://www.hezegd.com/templates/siteConfig/skin1/images/hztv2live.png" group-title="菏泽电视",菏泽生活频道HZTV2
+http://live.hznet.tv:1935/live/live2/500k/tzwj_video.m3u8
+#EXTINF:-1 tvg-id="菏泽科教频道HZTV3" tvg-name="菏泽科教频道HZTV3" tvg-logo="http://www.hezegd.com/templates/siteConfig/skin1/images/hztv3live.png" group-title="菏泽电视",菏泽科教频道HZTV3
+http://live.hznet.tv:1935/live/live3/500k/tzwj_video.m3u8
