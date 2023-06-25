@@ -5,9 +5,9 @@ http://live.hznet.tv:1935/live/live948/32k/tzwj_video.m3u8
 http://live.hznet.tv:1935/live/live875/32k/tzwj_video.m3u8
 #EXTINF:-1 tvg-id="菏泽音乐广播FM91.8" tvg-name="菏泽音乐广播FM91.8" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/dongpei151/iptv-epg/main/%E8%8F%8F%E6%B3%BD%E9%9F%B3%E4%B9%90%E5%B9%BF%E6%92%AD.png" group-title="菏泽广播",菏泽音乐广播FM91.8
 http://live.hznet.tv:1935/live/live918/32k/tzwj_video.m3u8
-#EXTINF:-1 tvg-id="菏泽新闻综合频道" tvg-name="菏泽新闻综合频道" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/dongpei151/iptv-epg/main/%E8%8F%8F%E6%B3%BD%E7%94%B5%E5%8F%B0.png" group-title="菏泽电视",HZTV1
+#EXTINF:-1 tvg-id="菏泽新闻综合频道" tvg-name="菏泽新闻综合频道" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/dongpei151/iptv-epg/main/%E8%8F%8F%E6%B3%BD%E7%94%B5%E5%8F%B0.png" group-title="菏泽电视",菏泽新闻综合频道
 http://live.hznet.tv:1935/live/live1/500k/tzwj_video.m3u8
-#EXTINF:-1 tvg-id="菏泽公共频道" tvg-name="菏泽公共频道" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/dongpei151/iptv-epg/main/%E8%8F%8F%E6%B3%BD%E7%94%B5%E5%8F%B0.png" group-title="菏泽电视",HZTV2
+#EXTINF:-1 tvg-id="菏泽公共频道" tvg-name="菏泽公共频道" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/dongpei151/iptv-epg/main/%E8%8F%8F%E6%B3%BD%E7%94%B5%E5%8F%B0.png" group-title="菏泽电视",菏泽公共频道
 http://live.hznet.tv:1935/live/live2/500k/tzwj_video.m3u8
-#EXTINF:-1 tvg-id="菏泽综艺频道" tvg-name="菏泽综艺频道" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/dongpei151/iptv-epg/main/%E8%8F%8F%E6%B3%BD%E7%94%B5%E5%8F%B0.png" group-title="菏泽电视",HZTV3
+#EXTINF:-1 tvg-id="菏泽综艺频道" tvg-name="菏泽综艺频道" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/dongpei151/iptv-epg/main/%E8%8F%8F%E6%B3%BD%E7%94%B5%E5%8F%B0.png" group-title="菏泽电视",菏泽综艺频道
 http://live.hznet.tv:1935/live/live3/500k/tzwj_video.m3u8
